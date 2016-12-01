@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rails/activerecord-session_store.git
-  revision: 01440b769db1d867109dff357a5d07ef6d4e2874
+  revision: 177936e5207603a94a4deeabf6936363693ab96e
   specs:
     activerecord-session_store (1.0.0)
       actionpack (>= 4.0, < 5.1)
@@ -102,7 +102,7 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
     mini_portile2 (2.1.0)
-    minitest (5.9.1)
+    minitest (5.10.0)
     multi_json (1.12.1)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
@@ -175,7 +175,7 @@ GEM
       railties (>= 3.1)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.3)
+    uglifier (3.0.4)
       execjs (>= 0.3.0, < 3)
     warden (1.2.6)
       rack (>= 1.0)
